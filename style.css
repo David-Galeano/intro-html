@@ -2,7 +2,7 @@
 
 body {
     background: #e9e9e9;
-    background-image: url('background.jpg');
+    background-image: url('mgrr.jpg');
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
@@ -58,7 +58,7 @@ ul {
 } 
 
 ul:before {
-    content: 'Quick links';
+    content: 'T H E  M E M E S';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
     background-color: rgba(245, 233, 149, 0.5);
